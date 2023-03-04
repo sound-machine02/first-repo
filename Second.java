@@ -7,5 +7,6 @@ public class Second {
         int b = sc.nextInt();
         int s = a+b;
         System.out.println("Sum = "+s);
+        sc.close();
     }
 }
